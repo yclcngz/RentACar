@@ -7,4 +7,4 @@ yeni kodlar ekledim
 farkli kodlay
 
 bazi calismalar yaptim.
-
+localde config olursa
